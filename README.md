@@ -10,7 +10,7 @@
 
     <main>
     <h2>Пітон</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Python_royal_35.JPG/500px-Python_royal_35.JPG="width="400px" height="400px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Green_Python_Berlin_Zoo.JPG/500px-Green_Python_Berlin_Zoo.JPG="width="400px" height="400px"/>
     <p>Загальна довжина представників цього роду коливається від 3 до 12 м, деякі часом досягають маси 100 кг.</p>
     <p>Голова розширена в основі й чітко відокремлена від тулуба.</p>
     <p> На міжщелеповому й верхньогубних щитках добре помітні 2-4 глибоких ямки</p>
