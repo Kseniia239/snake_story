@@ -10,7 +10,7 @@
 
     <main>
     <h2>Пітон</h2>
-    <img src="https://media.istockphoto.com/id/1302272371/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%B1%D0%B8%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%B8%D1%82%D0%BE%D0%BD.jpg?s=1024x1024&w=is&k=20&c=50w71uSwFroX_ktRnEuaRuGMWNmWZKNxLbDTVmZc48E="width="400px" height="400px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Python_royal_35.JPG/500px-Python_royal_35.JPG="width="400px" height="400px"/>
     <p>Загальна довжина представників цього роду коливається від 3 до 12 м, деякі часом досягають маси 100 кг.</p>
     <p>Голова розширена в основі й чітко відокремлена від тулуба.</p>
     <p> На міжщелеповому й верхньогубних щитках добре помітні 2-4 глибоких ямки</p>
